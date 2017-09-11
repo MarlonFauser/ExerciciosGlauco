@@ -13,6 +13,7 @@
 
   <build>
     <sourceDirectory>Beginner</sourceDirectory>
+    <testSourceDirectory>Beginner/beginner1004</testSourceDirectory> 
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
